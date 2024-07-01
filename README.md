@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNicknul%2FNicknul&count_bg=%23A73DC8&title_bg=%23630096&icon=&icon_color= %23C7C7C7&title=hits&edge_plat=false)](https://hits.seeyoufarm.com)
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
