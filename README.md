@@ -31,5 +31,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Nicknul&show_icons=true" />
 </picture>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
