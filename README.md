@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <!--잔디 3d-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--현황-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicknul&show_icons=true&theme=radical)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Nicknul&show_icons=true&theme=buefy"
