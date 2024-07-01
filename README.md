@@ -19,19 +19,3 @@ Here are some ideas to get you started:
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNicknul%2FNicknul&count_bg=%238800FF&title_bg=%2375009C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Nicknul&show_icons=true&theme=buefy"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Nicknul&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicknul&show_icons=true" />
-</picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicknul)](https://github.com/anuraghazra/github-readme-stats)-->
-
