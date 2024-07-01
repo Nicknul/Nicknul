@@ -33,5 +33,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Nicknul&show_icons=true" />
 </picture>
 <!--언어 현황-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicknul)](https://github.com/anuraghazra/github-readme-stats)
 
